@@ -3,7 +3,7 @@
 
 
 <hr>
-<h4>this table removes damage from newton and makes 1911 do awp damage for thhe LULZ</h4>
+<h4>this table removes FF (by removing all armor damage) and doubles all base gun damage </h4>
 <p>
 BalanceTableURL="/JTWP-org/BalancingTable/CastleWars"
 <br><br>
