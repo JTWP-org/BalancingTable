@@ -4,7 +4,7 @@
 
 <hr>
 <h4>this table removes FF (by removing all armor damage) and doubles all base gun damage </h4>
-<p>Thanks to Left4Pillz for thhe idea to remove damage<br>
+<p>Thanks to Left4Pillz for the idea to remove damage<br>
 <p>https://www.youtube.com/c/TheJQKteam</p>
 <p>
 BalanceTableURL="/JTWP-org/BalancingTable/CastleWars"
