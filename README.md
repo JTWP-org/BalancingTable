@@ -7,7 +7,7 @@
 <p>Thanks to Left4Pillz for the idea to remove damage<br>
 <p>https://www.youtube.com/c/TheJQKteam</p>
 <p>
-BalanceTableURL="/JTWP-org/BalancingTable/CastleWars"
+BalanceTableURL=/JTWP-org/BalancingTable/zombies-noff/
 <br><br>
 full raw url<br> 
 https://raw.githubusercontent.com/JTWP-org/BalancingTable/CastleWars/BalancingTable.csv
