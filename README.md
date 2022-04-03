@@ -6,7 +6,8 @@
 <h4>this table removes damage from newton and makes 1911 do awp damage for thhe LULZ</h4>
 <p>
 
-<br><br>
+BalanceTableURL=/JTWP-org/BalancingTable/zombies/
+  <br><br>
 full raw url<br> 
 https://raw.githubusercontent.com/JTWP-org/BalancingTable/CastleWars/BalancingTable.csv
 </p>
